@@ -1,0 +1,1 @@
+An example of CRUD application using Django REST Framework with PostgreSQL.
